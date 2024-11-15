@@ -1,10 +1,8 @@
-# PROJECT NAME
-
-below are common sections that you may like to populate or leave empty to populate later. refer to the template repo `WesternDeveloperSociety/project-spec-template` for the default.
+# UES SSTATIONBOOk
 
 ## Purpose
 
-*what and who is this project for?*
+*The WDS Station Book Project, in collaboration with the Undergraduate Engineering Society at Western, aims to tracks and award points when students in the faculty of engineering complete certain tasks. This project will involve a mobile app for students, a low quality web app for the council to perform admin operations on, and a backend that is capable of handling a load of 1k students registering within 1 hour. When deployed, each engineering student will track their participation in faculty/council events and be awarded points that can be exchanged at the +/- store.*
 
 ## Contribution
 
@@ -69,11 +67,12 @@ npm run start
 *give yourself some credit*
 
 Team Leads:
-- Bob
-- His friends
+- Anna
+- Zanan
 
 Developers:
-- Robert
-- John
-- A few more friends
+- Jay Prajapati
+- Sajeiv Ravichandran 
+- Juna Kim
+- Jack Branston
 
