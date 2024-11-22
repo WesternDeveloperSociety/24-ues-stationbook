@@ -8,7 +8,7 @@
 
 *add instructions on how to contribute to this repository, below is an example*
 
-1. Create a branch off of `dev` branch named in the format `<name>/type-title-of-this-branch`.
+1. Create a branch off of `dev` branch named in the format `<name>/<type>/<title>`.
     - valid types include:
         - feat: feature
         - fix: bug fix
