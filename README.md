@@ -71,7 +71,7 @@ Team Leads:
 - Zanan
 
 Developers:
-- Jay Prajapati
+- Jay Prajapati - hi
 - Sajeiv Ravichandran 
 - Juna Kim
 - Jack Branston;
