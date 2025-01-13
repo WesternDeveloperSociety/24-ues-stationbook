@@ -74,5 +74,5 @@ Developers:
 - Jay Prajapati
 - Sajeiv Ravichandran 
 - Juna Kim
-- Jack Branston
+- Jack Branston;
 
