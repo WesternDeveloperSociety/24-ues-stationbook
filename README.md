@@ -73,6 +73,7 @@ Team Leads:
 Developers:
 - Jay Prajapati
 - Sajeiv Ravichandran 
+- Juna Kim
+- Jack Branston;
 - Juna Kim - hiii
-- Jack Branston
 
