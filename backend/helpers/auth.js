@@ -1,5 +1,3 @@
-const pool = require('../db.js');
-
 const queryDBCredentials = async (user) => {
     //Ensuring that the credentials are within the database
 };

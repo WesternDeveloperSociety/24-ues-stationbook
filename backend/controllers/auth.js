@@ -1,4 +1,3 @@
-const { Pool } = require('../db.js');
 const { queryDBCredentials, addDBCredentials, generateRefreshToken, generateAccessToken } = require('../helpers/auth.js');
 
 
