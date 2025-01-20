@@ -5,5 +5,9 @@
   },
   "scripts": {
     "prepare": "husky"
+  },
+  "dependencies": {
+    "expo": "^52.0.25",
+    "express": "^4.21.2"
   }
 }
